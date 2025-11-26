@@ -1,0 +1,134 @@
+{
+    "convenios": [
+        {
+            "empresa": "COPARMEX",
+            "descuento": " 15% DE DESCUENTO EN ESTUDIOS DE RUTINA, 10% DE DESCUENTO EN ESTUDIOS ESPECIALES",
+            "requisito": "PRESENTAR TARJETA DE DESCUENTO"
+        },
+        {
+            "empresa": "UNIVERSIDAD TECNOLOGICA DEL USUMACINTA",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA DE LA CREDENCIAL OFICIAL Y RECIBO DE PAGO"
+        },
+        {
+            "empresa": "INSTITUTO TECNOLÓGICO SUPERIOR DE LA SIERRA",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA DE LA CREDENCIAL OFICIAL Y RECIBO DE PAGO"
+        },
+        {
+            "empresa": "INSTITUTO TECNOLÓGICO DE MACUSPANA",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA DE LA CREDENCIAL OFICIAL Y RECIBO DE PAGO"
+        },
+        {
+            "empresa": "INSTITUTO TECNOLÓGICO DE LOS RÍOS",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA DE LA CREDENCIAL OFICIAL Y RECIBO DE PAGO"
+        },
+        {
+            "empresa": "UMAEE - UNIVERSIDAD MÁS EDUCACIÓN Y ENSEÑANZA",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA Y ORIGINAL DE LA CREDENCIAL OFICIAL"
+        },
+        {
+            "empresa": "ÁREA DE URGENCIAS DEL HOSPITAL GENERAL DE COMALCALCO",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR FORMATO OFICIAL DE ORDEN MÉDICA DEL LABORATORIOS NAPOLES"
+        },
+        {
+            "empresa": "IUMV - INSTITUTO UNIVERSITARIO METROPOLITANO DE VILLAHERMOSA",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA Y ORIGINAL DE LA CREDENCIAL OFICIAL"
+        },
+        {
+            "empresa": "INSTITUTO TECNOLÓGICO DE VENTA",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA DE LA CREDENCIAL OFICIAL Y RECIBO DE PAGO"
+        },
+        {
+            "empresa": "UNIVERSIDAD POLITÉCNICA DEL GOLFO",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA DE LA CREDENCIAL OFICIAL Y RECIBO DE PAGO"
+        },
+        {
+            "empresa": "UNIVERSIDAD POLITÉCNICA MESOAMERICANA",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA DE LA CREDENCIAL OFICIAL Y RECIBO DE PAGO"
+        },
+        {
+            "empresa": "COBATAB #16",
+            "descuento": "20% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR CREDENCIAL OFICIAL Y COPIA"
+        },
+        {
+            "empresa": "TECMILENIO",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR LA CREDENCIAL OFICIAL Y COPIA"
+        },
+        {
+            "empresa": "COLEGIO AGUSTÍN MELGAR",
+            "descuento": "20% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR LA CREDENCIAL OFICIAL Y COPIA"
+        },
+        {
+            "empresa": "SECRETARÍA DE SALUD TACOTALPA",
+            "descuento": "20% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR LA CREDENCIAL OFICIAL Y UNA COPIA"
+        },
+        {
+            "empresa": "INSTITUTO DE ADMINISTRACIÓN PÚBLICA",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA Y ORIGINAL DE LA CREDENCIAL OFICIAL"
+        },
+        {
+            "empresa": "SWT DRAGON",
+            "descuento": "PRECIO PREFERENCIAL DE $850.00 IVA INCLUIDO EN CHEQUEO GENERAL",
+            "requisito": "SER MIEMBRO DE SWT DRAGON"
+        },
+        {
+            "empresa": "COLEGIO VILLAHERMOSA Y MARÍA TERESA A.C.",
+            "descuento": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "requisito": "PRESENTAR COPIA Y ORIGINAL DE LA CREDENCIAL OFICIAL"
+        },
+        {
+            "empresa": "UNIÓN DE TAXIS Y CHOFERES, CD. LA VENTA",
+            "descuento": "10% EN ESTUDIOS ESPECIALES Y 15% EN ESTUDIOS DE RUTINA",
+            "requisito": "PRESENTAR ORIGINAL Y COPIA DE LA IDENTIFICACIÓN PROPORCIONADA POR LABORATORIOS NAPOLES Y COPIA DEL INE"
+        },
+        {
+            "EMPRESA": "UNIVERSIDAD OLMECA",
+            "DESCUENTO": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "REQUISITO": "PRESENTAR COPIA Y ORIGINAL DE LA CREDENCIAL OFICIAL"
+        },
+        {
+            "EMPRESA": "PRIMARIA MATÍAS P. PIEDRA",
+            "DESCUENTO": "15% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "REQUISITO": "PRESENTAR ORIGINAL Y COPIA DE LA CONSTANCIA EMITIDA POR LA INSTITUCIÓN E IDENTIFICACIÓN OFICIAL"
+        },
+        {
+            "EMPRESA": "SINDICATO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO",
+            "DESCUENTO": "15% DE DESCUENTO EN ESTUDIOS DE RUTINA, 10% EN ESTUDIOS ESPECIALES",
+            "REQUISITO": "PRESENTAR GAFETE VIGENTE"
+        },
+        {
+            "EMPRESA": "POCHIMOVILEROS SAN JUAN BAUTISTA",
+            "DESCUENTO": "15% DE DESCUENTO EN TODOS NUESTROS SERVICIOS",
+            "REQUISITO": "PRESENTAR IDENTIFICACIÓN PROPORCIONADA POR LABORATORIOS NAPOLES E IDENTIFICACIÓN OFICIAL"
+        },
+        {
+            "EMPRESA": "TALLER LOS OLIVOS",
+            "DESCUENTO": "15% DE DESCUENTO EN ESTUDIOS DE RUTINA",
+            "REQUISITO": "PRESENTAR RECIBO DE COBRO Y CREDENCIAL OFICIAL"
+        },
+        {
+            "EMPRESA": "DEPARTAMENTO DE TRABAJADORES JUBILADOS DE LA H. SECCIÓN 26",
+            "DESCUENTO": "20% DE DESCUENTO EN NUESTROS SERVICIOS",
+            "REQUISITO": "PRESENTAR GAFETE VIGENTE Y COPIA"
+        },
+        {
+            "EMPRESA": "POCHIMOVILEROS LA ASUNCIÓN",
+            "DESCUENTO": "15% DE DESCUENTO EN TODOS NUESTROS SERVICIOS",
+            "REQUISITO": "PRESENTAR IDENTIFICACIÓN PROPORCIONADA POR LABORATORIOS NAPOLES Y COPIA DEL INE"
+        }
+    ]
+}
